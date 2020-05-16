@@ -5,7 +5,11 @@
 //  Created by lil_box on 5/15/20.
 //  Copyright © 2020 zeroBurnt. All rights reserved.
 //
-
+import AWSS3
+import AWSCore
+import AWSDynamoDB
+import AWSSQS
+import AWSSNS
 import UIKit
 
 @UIApplicationMain
